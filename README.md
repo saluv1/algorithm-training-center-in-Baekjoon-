@@ -1,3 +1,5 @@
+This is a record of Baekjoon Online Judge, a defunct algorithmic trading and competitive programming platform.
+
 <img width="773" height="549" alt="image" src="https://github.com/user-attachments/assets/a7a974e7-f993-4bd9-936e-892261e2acdd" />
 <img width="773" height="745" alt="image" src="https://github.com/user-attachments/assets/efff3713-eb3c-4667-b694-2a083bf35683" />
 <img width="1136" height="1283" alt="image" src="https://github.com/user-attachments/assets/ea292025-9386-4105-8cc2-83b1baaf856f" />
