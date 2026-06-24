@@ -1,26 +1,3 @@
 This is a record of Baekjoon Online Judge, a defunct algorithmic trading and competitive programming platform.
 
-<img width="773" height="549" alt="image" src="https://github.com/user-attachments/assets/a7a974e7-f993-4bd9-936e-892261e2acdd" />
-<img width="773" height="745" alt="image" src="https://github.com/user-attachments/assets/efff3713-eb3c-4667-b694-2a083bf35683" />
-<img width="1136" height="1283" alt="image" src="https://github.com/user-attachments/assets/ea292025-9386-4105-8cc2-83b1baaf856f" />
-<img width="1168" height="1320" alt="image" src="https://github.com/user-attachments/assets/74d0c08a-3764-4f5d-a930-968ba9bec7a3" />
-<img width="773" height="874" alt="image" src="https://github.com/user-attachments/assets/e0464459-3184-4431-a40f-aac2544c8194" />
-<img width="1170" height="981" alt="image" src="https://github.com/user-attachments/assets/c0fac842-1605-4ccd-9ade-314272265920" />
-<img width="1137" height="1256" alt="image" src="https://github.com/user-attachments/assets/d0071e78-413a-431a-81aa-26b6895e0452" />
-<img width="1161" height="1263" alt="image" src="https://github.com/user-attachments/assets/9abdc158-6be0-42ba-a6e5-eef5abe807bd" />
-<img width="1162" height="1105" alt="image" src="https://github.com/user-attachments/assets/b0653af2-c8a0-4035-9df7-4677df68f6ff" />
-<img width="1147" height="1231" alt="image" src="https://github.com/user-attachments/assets/2df14ba0-06cf-4f29-bb96-7ed404cf89c0" />
-<img width="1167" height="1254" alt="image" src="https://github.com/user-attachments/assets/e54034f6-dd69-41c5-9250-db050688f349" />
-<img width="1101" height="1111" alt="image" src="https://github.com/user-attachments/assets/d2b488f9-298f-4281-bb7b-c1bb2b415664" />
-<img width="1156" height="1282" alt="image" src="https://github.com/user-attachments/assets/e34f0695-81f6-4927-8289-0927c1178635" />
-<img width="1156" height="1282" alt="image" src="https://github.com/user-attachments/assets/bb276db6-b8d0-4b2b-a7bb-7b2c9d8a27dc" />
-<img width="1148" height="1005" alt="image" src="https://github.com/user-attachments/assets/4d599f73-3207-4366-83a7-37345523e1cc" />
-<img width="1136" height="1283" alt="image" src="https://github.com/user-attachments/assets/b43ecd4b-b23f-4deb-b9fc-cead70d821d5" />
-<img width="1136" height="1283" alt="image" src="https://github.com/user-attachments/assets/25343b62-6608-4238-96c9-a284a3a66d43" />
-<img width="1139" height="1040" alt="image" src="https://github.com/user-attachments/assets/83d9a2bf-a7af-4c49-a287-68296530a6a9" />
-<img width="1144" height="1283" alt="image" src="https://github.com/user-attachments/assets/8c3995e8-8760-494c-8f7f-be55773f2827" />
-<img width="1144" height="1283" alt="image" src="https://github.com/user-attachments/assets/2fe92662-7781-4de1-977a-7b5333f09084" />
-<img width="1143" height="1075" alt="image" src="https://github.com/user-attachments/assets/c80b5a4d-f72a-4a19-a2c2-2b7fb145dd43" />
-<img width="1140" height="1234" alt="image" src="https://github.com/user-attachments/assets/9f14b35e-6c0f-4194-af30-049173991aa2" />
-<img width="1141" height="1282" alt="image" src="https://github.com/user-attachments/assets/b242cd1b-3434-4258-9052-f0e9bcab386a" />
-<img width="1184" height="584" alt="image" src="https://github.com/user-attachments/assets/69920ce5-8942-4972-bc1f-b07fe1bb1391" />
+(https://solved.ac/profile/dlwodud0206)
